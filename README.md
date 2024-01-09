@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AnshMehta24<br>💻I'm a 3rd year It Student.<br>📚Proficient in HTML, CSS, C, and C++.<br>👀Currently exploring the dynamic world of JavaScript.<br>🌱 I’m currently learning Web Devlopment and Java with DSA.<br><br>Let's Connect:<br>Feel free to connect with me on [LinkedIn]https://www.linkedin.com/in/ansh-mehta-171168249 and [Twitter]https://x.com/anshmehta24?t=0ss0q5q4K4ItgMdICpL5-A&s=09. <br>I'm open to collaborations and ready to explore new opportunities.<br><br>Looking forward to the journey ahead! ✨<br>
+👋 Hi, I’m @AnshMehta24<br>💻I'm a 3rd year IT Student.<br>📚Proficient in HTML, CSS, C, and C++.<br>👀Currently exploring the dynamic world of JavaScript.<br>🌱 I’m currently learning Web Devlopment and Java with DSA.<br><br>Let's Connect:<br>Feel free to connect with me on [LinkedIn]https://www.linkedin.com/in/ansh-mehta-171168249 and [Twitter]https://x.com/anshmehta24?t=0ss0q5q4K4ItgMdICpL5-A&s=09. <br>I'm open to collaborations and ready to explore new opportunities.<br><br>Looking forward to the journey ahead! ✨<br>
 
 
 ## 🌐 Socials:
